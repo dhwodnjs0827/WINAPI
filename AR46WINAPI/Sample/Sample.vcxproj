@@ -126,19 +126,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="ClassSample.cpp">
-      <SubType>
-      </SubType>
-    </ClCompile>
-    <ClCompile Include="SampleProject.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="ClassSample.h">
-      <SubType>
-      </SubType>
-    </ClInclude>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
